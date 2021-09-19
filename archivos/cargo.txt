@@ -1,0 +1,7 @@
+1|Programador
+2|Secretaria
+3|Contador
+4|Abogado
+5|Jefe Civil
+6|555
+7|Vents
